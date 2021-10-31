@@ -1,7 +1,7 @@
 ### Hi! Bonjour! Ciao! Привет!
-🧡 Computer Science and Mathematics student
-👾 Any pronouns
-✨ Interested in data science and web development!
+- 🧡 Computer Science and Mathematics student
+- 👾 Any pronouns
+- ✨ Interested in data science and web development!
 
 <!--
 **sunyshore/sunyshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
