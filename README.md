@@ -3,7 +3,7 @@
 - 👾 Any pronouns
 - ✨ Interested in data science and web development!
 
-[Resume](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf) || [Temp Website](https://sunyshore.github.io/newsite/)
+[My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf) || [Temp Website](https://sunyshore.github.io/newsite/)
 
 <!--
 **sunyshore/sunyshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
