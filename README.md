@@ -1,7 +1,8 @@
 ### Hi! Bonjour! Ciao! Привет!
 - 🧡 Computer Science and Mathematics student
 - 👾 Any pronouns
-- ✨ Interested in data science and web development!  
+- ✨ Interested in data science and web development!
+
 [Resume](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf) || [Temp Website](https://sunyshore.github.io/newsite/)
 
 <!--
