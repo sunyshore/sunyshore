@@ -1,9 +1,7 @@
 canada, any pronouns, 18+
 
----
-
 ### generacija ljubezni, upanja, novi val
-I survived girlbossing into the sun, paris gare du nord, and the implosion of the luke black discord server
+I survived girlbossing into the sun, paris gare du nord, and the implosion of the [luke black discord server](https://discord.gg/lukeblackmusic)
 
 ### нови план други сан
 yaba > piton > colchón laboratorio > misql > si > erre > jasquel > prólogo > yabaescrit
