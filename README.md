@@ -1,4 +1,4 @@
-### Hi! Bonjour! Ciao! Привет!
+### Hi! Bonjour! Ciao! Živjo! Grüezi! Hoş geldin! Привет!
 - 🧡 Computer Science and Mathematics student
 - 👾 Any pronouns
 - ✨ Interested in data science and web development!
