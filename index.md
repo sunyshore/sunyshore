@@ -9,5 +9,5 @@ yaba > piton > colchón laboratorio > misql > si > erre > jasquel > prólogo > y
 ### [o](https://open.spotify.com/track/5aSfvfQk6xtnV7fmRKbeKL?si=b646050d100b46c1) [captain](https://www.youtube.com/watch?v=vHuMmb28tkY), [my](https://www.youtube.com/watch?v=oc8JP-yI9fQ) [captain](https://www.youtube.com/watch?v=3LXlPviGiWc)!
 I like world languages, soccer, figure skating, les misérables, dnd, stardoo, eurovision, pokémon, typology, maþ, space, bass, and all kinds of music :D
 
-![canva](canv.png)
+![canva page with lyrics](canv.jpg)
 
