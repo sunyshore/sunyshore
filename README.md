@@ -1,9 +1,9 @@
-### Hi! Bonjour! Ciao! Živjo! Grüezi! Hoş geldin! Привет!
+### Hi! Bonjour! Ciao! Grüezi! Živjo! Hæ! Cześć!
 - 🧡 Computer Science and Mathematics student
 - 👾 Any pronouns
 - ✨ Interested in data science and web development!
 
-[My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf) || [Temp Website](https://sunyshore.github.io/newsite/)
+[My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf)
 
 <!--
 **sunyshore/sunyshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
