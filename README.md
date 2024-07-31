@@ -1,7 +1,7 @@
 ### Hi! Bonjour! Ciao! Grüezi! Živjo! Hæ! Cześć!
-- 🧡 Computer Science and Mathematics student
+- 🧡 Computer Science and Mathematics student specializing in AI/ML/DS
 - 👾 Any pronouns
-- ✨ Interested in data science and web development!
+- ✨ Interested in NLP (translation, cognition, language acquisition)
 
 [My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf)
 
