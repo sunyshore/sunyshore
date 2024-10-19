@@ -3,7 +3,7 @@
 - 👾 Any pronouns
 - ✨ Interested in NLP (translation, cognition, language acquisition)
 
-[My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf)
+[My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf) || [My Website](https://sunyshore.github.io/prof-site/)
 
 <!--
 **sunyshore/sunyshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
