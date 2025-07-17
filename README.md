@@ -1,9 +1,10 @@
-### Hi! Bonjour! Ciao! Grüezi! Živjo! Hæ! Cześć!
-- 🧡 Computer Science and Mathematics student specializing in AI/ML/DS
+### Hi! Bonjour! Hoi! Ciao! Grüezi! Živjo! Hæ! Cześć!
+- 🧡 Master's in AI, focus on data science (in progress)
+- 🍁 Bachelor's in Computer Science, Math, and Analytics
 - 👾 Any pronouns
 - ✨ Interested in NLP (translation, cognition, language acquisition)
 
-[My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf) || [My Website](https://sunyshore.github.io/md-site/index.html)
+[My Resumé](https://sunyshore.github.io/resume/Mercy_Doan_Resume.pdf) || [My Website](https://sunyshore.github.io/md-site/index.html) || [EEG](https://sunyshore.github.io/eeg/)
 
 <!--
 **sunyshore/sunyshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
